@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = me
+#	email = me@mes-MacBook-Pro.local
+[user]
+	name = Michael Leung
+	email = michael.will.leung@gmail.com
