@@ -6,3 +6,5 @@
 [user]
 	name = Michael Leung
 	email = michael.will.leung@gmail.com
+[push]
+	default = simple
